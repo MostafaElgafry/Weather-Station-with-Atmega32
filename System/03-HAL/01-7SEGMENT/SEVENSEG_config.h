@@ -1,0 +1,34 @@
+/*
+*Author     : Moustafa ElGafry
+*Date       : 5 AUG 2020
+*Version    : V01
+*/
+
+
+#ifndef SEVENSEG_CONFIG_H
+#define SEVENSEG_CONFIG_H
+
+/*
+SELECT 7SEG CONNECTION
+
+7SEGMENTPIN0 ==> 0,PORTA
+7SEGMENTPIN1 ==> 1,PORTA
+7SEGMENTPIN2 ==> 2,PORTA
+7SEGMENTPIN3 ==> 3,PORTA
+7SEGMENTPIN4 ==> 4,PORTA
+7SEGMENTPIN5 ==> 5,PORTA
+	    .
+	    .
+	    .
+	    .
+*/
+#define 	SEVENSEG_PIN1	 0,PORTC
+#define 	SEVENSEG_PIN2    1,PORTC
+#define 	SEVENSEG_PIN3    2,PORTC
+#define 	SEVENSEG_PIN4    3,PORTC
+#define 	SEVENSEG_PIN5    4,PORTC
+#define 	SEVENSEG_PIN6    5,PORTC
+#define 	SEVENSEG_PIN7	 6,PORTC
+
+
+#endif

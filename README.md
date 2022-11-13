@@ -1,1 +1,2 @@
-# ATMEGA32-Microcontroller-Project
+# Weather-Station-with-Atmega32
+
